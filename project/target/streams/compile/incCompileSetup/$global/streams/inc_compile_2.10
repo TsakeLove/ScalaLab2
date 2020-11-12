@@ -1,0 +1,236 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/igor/Downloads/recfun-2/project/target/scala-2.10/sbt-0.13/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+5 items
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> /Users/igor/Downloads/recfun-2/project/target/scala-2.10/sbt-0.13/classes/Settings$.class
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> /Users/igor/Downloads/recfun-2/project/target/scala-2.10/sbt-0.13/classes/Settings.class
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> /Users/igor/Downloads/recfun-2/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$.class
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> /Users/igor/Downloads/recfun-2/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$CustomTextOutput.class
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> /Users/igor/Downloads/recfun-2/project/target/scala-2.10/sbt-0.13/classes/StyleChecker.class
+binary dependencies:
+7 items
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre/lib/rt.jar
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> /Users/igor/.sbt/boot/scala-2.10.7/lib/scala-library.jar
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre/lib/rt.jar
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> /Users/igor/.ivy2/cache/com.typesafe/config/bundles/config-1.2.0.jar
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> /Users/igor/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.17.jar
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> /Users/igor/.ivy2/cache/org.scalastyle/scalastyle_2.10/jars/scalastyle_2.10-0.8.0.jar
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> /Users/igor/.sbt/boot/scala-2.10.7/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+5 items
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> Settings
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> Settings$
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> StyleChecker
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> StyleChecker$
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> StyleChecker$CustomTextOutput
+used names:
+132 items
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> *
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> <init>
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> AnyRef
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> Int
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> Object
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> Settings
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> String
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> individualTestTimeout
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> maxSubmitFileSize
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> mb
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> scala
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> scalaTestDefaultWeightProperty
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> scalaTestIndividualTestTimeoutProperty
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> scalaTestReadableFilesProperty
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> scalaTestReportFileProperty
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> scalaTestTimeout
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> testResultsFileName
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> +
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> -
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> <init>
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> <repeated>
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> ==
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> ?0
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> Any
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> AnyRef
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> Boolean
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> ByteArrayOutputStream
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> Class
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> ClassLoader
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> Config
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> ConfigFactory
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> CustomTextOutput
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> Directory
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> File
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> FileSpec
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> Int
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> Iterable
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> Level
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> List
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> MatchError
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> Message
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> MessageHelper
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> None
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> Nothing
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> Object
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> Option
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> Output
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> OutputResult
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> OutputStream
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> Predef
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> PrintStream
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> ScalastyleChecker
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> ScalastyleConfiguration
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> Seq
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> Some
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> StartFile
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> String
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> StringContext
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> StringOps
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> StyleChecker
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> StyleError
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> StyleException
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> T
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> T0
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> T1
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> T2
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> Tuple2
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> Unit
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> _root_
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> args
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> asInstanceOf
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> augmentString
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> checkFiles
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> column
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> columnNumber
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> com
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> config
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> configFile
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> customMessage
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> errors
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> file
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> fileCount
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> fileCount_=
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> fileSpec
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> files
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> findMessage
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> getAbsolutePath
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> getClass
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> getClassLoader
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> getFiles
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> getParent
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> io
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> isInstanceOf
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> java
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> key
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> level
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> line
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> lineNumber
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> load
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> m
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> math
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> max
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> maxResult
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> message
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> messageHelper
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> messages
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> msg
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> name
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> org
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> output
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> outputResult
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> package
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> penalties
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> pos
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> print
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> println
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> readFromXml
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> report
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> s
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> sbt
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> scala
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> scalastyle
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> score
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> sources
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> stream
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> stripMargin
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> styleSheetPath
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> text
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> toString
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> typesafe
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> warnings
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> x
+product stamps:
+5 items
+/Users/igor/Downloads/recfun-2/project/target/scala-2.10/sbt-0.13/classes/Settings$.class -> lastModified(1600891445000)
+/Users/igor/Downloads/recfun-2/project/target/scala-2.10/sbt-0.13/classes/Settings.class -> lastModified(1600891445000)
+/Users/igor/Downloads/recfun-2/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$.class -> lastModified(1600891445000)
+/Users/igor/Downloads/recfun-2/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$CustomTextOutput.class -> lastModified(1600891445000)
+/Users/igor/Downloads/recfun-2/project/target/scala-2.10/sbt-0.13/classes/StyleChecker.class -> lastModified(1600891445000)
+source stamps:
+2 items
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> hash(6b7d40ca68350b53c109fa5d37a9864fe0a687ba)
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> hash(71fa97d829a902e35bad1e762522c42cbbb5c837)
+binary stamps:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1592463291000)
+/Users/igor/.ivy2/cache/com.typesafe/config/bundles/config-1.2.0.jar -> lastModified(1389798583000)
+/Users/igor/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.17.jar -> lastModified(1517428372000)
+/Users/igor/.ivy2/cache/org.scalastyle/scalastyle_2.10/jars/scalastyle_2.10-0.8.0.jar -> lastModified(1449002502000)
+/Users/igor/.sbt/boot/scala-2.10.7/lib/scala-library.jar -> lastModified(1509739617000)
+class names:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/igor/.ivy2/cache/com.typesafe/config/bundles/config-1.2.0.jar -> com.typesafe.config.ConfigFactory
+/Users/igor/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.17.jar -> sbt.package$
+/Users/igor/.ivy2/cache/org.scalastyle/scalastyle_2.10/jars/scalastyle_2.10-0.8.0.jar -> org.scalastyle.Output
+/Users/igor/.sbt/boot/scala-2.10.7/lib/scala-library.jar -> scala.MatchError
+internal apis:
+2 items
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwpos6vAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAcc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw3fEMOnQABm5vdGlmeXNxAH4ADLpcIXp0AAhTZXR0aW5nc3NxAH4ADAR8sIl0AAR3YWl0c3EAfgAMjbmfqnQADSRhc0luc3RhbmNlT2ZzcQB+AAwURT9jdAAGZXF1YWxzc3EAfgAMcHJGunQAG3NjYWxhVGVzdFJlcG9ydEZpbGVQcm9wZXJ0eXNxAH4ADF0WeMd0AAxhc0luc3RhbmNlT2ZzcQB+AAwznNitdAAMc3luY2hyb25pemVkc3EAfgAMo4yyf3QADSRpc0luc3RhbmNlT2ZzcQB+AAxRMeRndAATdGVzdFJlc3VsdHNGaWxlTmFtZXNxAH4ADDkvgg90AB5zY2FsYVRlc3REZWZhdWx0V2VpZ2h0UHJvcGVydHlzcQB+AAz3q8prdAAJbm90aWZ5QWxsc3EAfgAM8/NW6nQAHnNjYWxhVGVzdFJlYWRhYmxlRmlsZXNQcm9wZXJ0eXNxAH4ADCm4zg90AAxpc0luc3RhbmNlT2ZzcQB+AAxcJJpddAAmc2NhbGFUZXN0SW5kaXZpZHVhbFRlc3RUaW1lb3V0UHJvcGVydHlzcQB+AAwDRKSgdAACPT1zcQB+AAzT2OnwdAAFY2xvbmVzcQB+AAwAxZkpdAAVaW5kaXZpZHVhbFRlc3RUaW1lb3V0c3EAfgAMhyEiUXQAEW1heFN1Ym1pdEZpbGVTaXplc3EAfgAMXemRvnQACHRvU3RyaW5nc3EAfgAMB/tcLXQAAiE9c3EAfgAM73VLyXQACGdldENsYXNzc3EAfgAMqzQKOnQAEHNjYWxhVGVzdFRpbWVvdXRzcQB+AAzdcScidAACbmVzcQB+AAw5KVIRdAACZXFzcQB+AAzZd6DBdAACIyNzcQB+AAxExQNndAAIZmluYWxpemVzcQB+AAy1wc+/dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBPeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ABF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AT0wACWluaGVyaXRlZHEAfgBPTAAHcGFyZW50c3EAfgBPeHEAfgBrc3EAfgBmdXEAfgBKAAAAAHNxAH4AZnVxAH4ASgAAAABzcQB+AGZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGp0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGpzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIN0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIRzcQB+AHd0AANBbnlzcQB+AHtzcQB+AH51cQB+AIEAAAACc3EAfgCDdAAFc2NhbGFxAH4AinVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAF0vJDR0XVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEkvVXNlcnMvaWdvci9Eb3dubG9hZHMvcmVjZnVuLTIvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUa31Aymg1C1PBCfpdN6mGT+Cmh7o=
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwA5yDYQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAec3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwxhGZPXQABm5vdGlmeXNxAH4ADAEBzrx0AAR3YWl0c3EAfgAMReDKAnQADSRhc0luc3RhbmNlT2ZzcQB+AAzEM6NtdAAGZXF1YWxzc3EAfgAMfBsbIXQADGFzSW5zdGFuY2VPZnNxAH4ADPlntxx0AAxzeW5jaHJvbml6ZWRzcQB+AAzqS+Z1dAAFc2NvcmVzcQB+AAzvDFjvdAANJGlzSW5zdGFuY2VPZnNxAH4ADDm4A3N0AAtlYWNoTWVzc2FnZXNxAH4ADNq4ZWl0AAlub3RpZnlBbGxzcQB+AAzZUrWxdAAMaXNJbnN0YW5jZU9mc3EAfgAMqozU6nQACW1heFJlc3VsdHNxAH4ADOfgFvB0AAY8aW5pdD5zcQB+AAxeTfJ7dAAJZmlsZUNvdW50c3EAfgAM4H5eAnQAAj09c3EAfgAMazJ5hHQABmFzc2Vzc3NxAH4ADHo0SXZ0AAVjbG9uZXNxAH4ADOZvSoZ0AAYkaW5pdCRzcQB+AAwh0c+xdAAHbWVzc2FnZXNxAH4ADJjayQ50AAh0b1N0cmluZ3NxAH4ADKYogRR0AAIhPXNxAH4ADEBzEaZ0AAxTdHlsZUNoZWNrZXJzcQB+AAwup0/kdAAIZ2V0Q2xhc3NzcQB+AAz9phuLdAAGb3V0cHV0c3EAfgAMDUBjW3QAAm5lc3EAfgAM5Gr7pnQAAmVxc3EAfgAM5ezUynQAAiMjc3EAfgAM0XsSHHQACGZpbmFsaXplc3EAfgAM6YMArXQACGhhc2hDb2Rlc3EAfgAMw3p7JXQAEEN1c3RvbVRleHRPdXRwdXRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBTeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ADl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AU0wACWluaGVyaXRlZHEAfgBTTAAHcGFyZW50c3EAfgBTeHEAfgBvc3EAfgBqdXEAfgBOAAAAAHNxAH4AanVxAH4ATgAAAABzcQB+AGp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG50AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG5zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AId0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIhzcQB+AHt0AANBbnlzcQB+AH9zcQB+AIJ1cQB+AIUAAAACc3EAfgCHdAAFc2NhbGFxAH4AjnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAF0vJDR0XVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEkvVXNlcnMvaWdvci9Eb3dubG9hZHMvcmVjZnVuLTIvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUcfqX2CmpAuNbrR52JSLELLu1yDc=
+external apis:
+0 items
+source infos:
+2 items
+/Users/igor/Downloads/recfun-2/project/Settings.scala -> 
+AAAAAAAAAAA=
+/Users/igor/Downloads/recfun-2/project/StyleChecker.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdLyQ0dF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASS9Vc2Vycy9pZ29yL0Rvd25sb2Fkcy9yZWNmdW4tMi9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv
